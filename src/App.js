@@ -48,12 +48,6 @@ const App = () => {
   const [numLoaded, setNumLoaded] = useState(0);
   const length = images.length - 1;
 
-  const handleClick = () => {
-    setCurrentImage((currentImage) => {
-      return currentImage < length ? currentImage + 1 : 0;
-    });
-  };
-
   const handlePrevPic = () => {
     setCurrentImage((currentImage) => {
       return currentImage > 0 ? currentImage - 1 : length;
@@ -75,7 +69,8 @@ const App = () => {
       <header>
         <h1>fishy</h1>
         <h2>
-          an ai image generated tribute to tinned fish<br />
+          an ai image generated tribute to tinned fish
+          <br />
           by jacob schreiber
         </h2>
       </header>
