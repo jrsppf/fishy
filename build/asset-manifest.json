@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae2a0f7c.css",
+    "main.js": "/static/js/main.745f0b37.js",
+    "static/js/787.8938ad2c.chunk.js": "/static/js/787.8938ad2c.chunk.js",
+    "static/media/tinned-fish-10.jpeg": "/static/media/tinned-fish-10.76f2b37b48d8eba9f527.jpeg",
+    "static/media/tinned-fish-6.jpeg": "/static/media/tinned-fish-6.903f1faf31a0a34979ef.jpeg",
+    "static/media/tinned-fish-11.jpeg": "/static/media/tinned-fish-11.18ab5184a604552389a3.jpeg",
+    "static/media/tinned-fish-3.jpeg": "/static/media/tinned-fish-3.2bee72580afcf872d85c.jpeg",
+    "static/media/tinned-fish-13.jpeg": "/static/media/tinned-fish-13.96122b3c7fc2df4c6e4e.jpeg",
+    "static/media/tinned-fish-5.jpeg": "/static/media/tinned-fish-5.597f467976d05b740404.jpeg",
+    "static/media/tinned-fish-2.jpeg": "/static/media/tinned-fish-2.729fcd3b68d073874fb0.jpeg",
+    "static/media/tinned-fish-7.jpeg": "/static/media/tinned-fish-7.def80d84d16f7d0ea3b6.jpeg",
+    "static/media/tinned-fish-1.jpeg": "/static/media/tinned-fish-1.c5d34a64f049a9009797.jpeg",
+    "static/media/tinned-fish-4.jpeg": "/static/media/tinned-fish-4.2c58794b2e78f6f3efb8.jpeg",
+    "static/media/tinned-fish-9.jpeg": "/static/media/tinned-fish-9.703ee4002194f3a636c3.jpeg",
+    "static/media/tinned-fish-14.jpeg": "/static/media/tinned-fish-14.7a5c55307b861268a644.jpeg",
+    "static/media/tinned-fish-8.jpeg": "/static/media/tinned-fish-8.784230b0ffb955aacb14.jpeg",
+    "static/media/tinned-fish-15.jpeg": "/static/media/tinned-fish-15.19f867d2720e55479238.jpeg",
+    "static/media/tinned-fish-12.jpeg": "/static/media/tinned-fish-12.4b71284366d07ddbb089.jpeg",
+    "index.html": "/index.html",
+    "main.ae2a0f7c.css.map": "/static/css/main.ae2a0f7c.css.map",
+    "main.745f0b37.js.map": "/static/js/main.745f0b37.js.map",
+    "787.8938ad2c.chunk.js.map": "/static/js/787.8938ad2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2a0f7c.css",
+    "static/js/main.745f0b37.js"
+  ]
+}
